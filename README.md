@@ -28,7 +28,6 @@
         <p>Reading is my favorite hobby. I just enjoy being able to settle down after a long day 
             and take out a good book to read. I like to read any kind of book, no matter the genre
             though I do have a preference for fiction.
-    </p>
     
     <h3>Fun Fact about Me</h3>
     I share a birthday with my cousin Jacob, we were both born on August 10. Though he is a couple years older than me.
