@@ -1,7 +1,6 @@
-<!DOCTYPE html>
+
 <html>
 <body>
-
 <h1>Caroline Siedlarczyk</h1>
 
 <p><a href="carolinesiedlarczy@lewisu.edu">carolinesiedlarczy@lewisu.edu</a></p>
