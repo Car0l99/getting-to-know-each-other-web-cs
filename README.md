@@ -36,10 +36,8 @@
     <h3>Greatest Innovations of all time</h3>
     <ul>
         <li>#1 The Gameboy, which paved the way for videogames.
-            <p><a href="https://www.smithsonianmag.com/innovation/thirty-years-ago-game-boy-changed-way-america-played-video-games-180972743/">Game Boy</a>             </p>
+            <p><a href="https://www.smithsonianmag.com/innovation/thirty-years-ago-game-boy-changed-way-america-played-video-games-180972743/">Game Boy</a></p>
         <li>#2 The Computer
-            <p><a href="https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm">The Computer</a>
-            </p>
+            <p><a href="https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm">The Computer</a></p>
         <li>#3 Siri
-            <p><a href="https://www.macrumors.com/guide/siri/">Siri</a>
-            </p>
+            <p><a href="https://www.macrumors.com/guide/siri/">Siri</a></p>
