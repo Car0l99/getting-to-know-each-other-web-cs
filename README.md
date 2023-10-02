@@ -1,4 +1,3 @@
-
 <html>
 <body>
 <h1>Caroline Siedlarczyk</h1>
@@ -22,7 +21,7 @@
             <li>History of Computer Science</li>
             <li>Data Networking & Security</li>
         </ul>
-    </p>
+
     <h3>My Favorite Hobby</h3>
 
         <p>Reading is my favorite hobby. I just enjoy being able to settle down after a long day 
