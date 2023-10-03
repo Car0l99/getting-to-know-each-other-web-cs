@@ -5,7 +5,7 @@
 <p><a href="carolinesiedlarczy@lewisu.edu">carolinesiedlarczy@lewisu.edu</a></p>
 
 <h2>Display Name: C@rol, Username: crol205</h2>
-<img src="img_Pictureofme.jpg" alt="Caroline's Picture" style="width:300px;">
+<img src="Pictureofme.jpg" alt="Caroline's Picture" style="width:300px;">
 <h3>Introduction</h3>
     <p>Hi, my name is Caroline Siedlarczyk. 
         I am eighteen years old and a freshman at Lewis University. I enjoy playing videogames, reading,
