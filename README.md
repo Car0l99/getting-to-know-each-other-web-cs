@@ -1,5 +1,10 @@
 <html>
 <body style="background-color:powderblue;">
+    
+    h1 {
+  text-align: center;
+}
+
 <h1 style="font-size:300%;"><h1 style="font-family:verdana;">Caroline Siedlarczyk</h1>
 
 </body>
