@@ -1,11 +1,9 @@
 <html>
 <body style="background-color:powderblue;">
-<style>
 
 <h1 style="font-size:300%;"><h1 style="font-family:verdana;"><h1 style="text-align:center;">Caroline Siedlarczyk</h1>
 
 </body>
-</style>
 
 <p><a href="carolinesiedlarczy@lewisu.edu">carolinesiedlarczy@lewisu.edu</a></p>
 
