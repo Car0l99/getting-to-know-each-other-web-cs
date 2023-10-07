@@ -3,9 +3,7 @@
 
 <h1 style="font-size:300%;"><h1 style="font-family:verdana;"><h1 style="text-align:center;"<b>Caroline Siedlarczyk</b>
 
-</body>
-
-<p><a href="carolinesiedlarczy@lewisu.edu">carolinesiedlarczy@lewisu.edu<h1 style="text-align:center;"</a></p>
+<p><a href="carolinesiedlarczy@lewisu.edu">carolinesiedlarczy@lewisu.edu</a></p>
 
 <h2>Display Name: C@rol, Username: crol205<h1 style="text-align:center;"</h2>
 
