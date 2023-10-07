@@ -1,11 +1,11 @@
 <html>
 <body style="background-color:powderblue;">
 
-<h1 style="font-size:300%;"><h1 style="font-family:verdana;"><h1 style="text-align:center;"<b>Caroline Siedlarczyk</b>
+<h1 style="font-size:300%;"><h1 style="font-family:verdana;"><h1 style="text-align:center;"><b>Caroline Siedlarczyk</b>
 
 <p><a href="carolinesiedlarczy@lewisu.edu">carolinesiedlarczy@lewisu.edu</a></p>
 
-<h2>Display Name: C@rol, Username: crol205<h1 style="text-align:center;"</h2>
+<h2>Display Name: C@rol, Username: crol205<h1 style="text-align:center;"></h2>
 
 <h3>Introduction</h3>
     <p>Hi, my name is Caroline Siedlarczyk. 
