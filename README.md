@@ -5,9 +5,9 @@
 
 </body>
 
-<p><a href="carolinesiedlarczy@lewisu.edu">carolinesiedlarczy@lewisu.edu</a></p>
+<p><a href="carolinesiedlarczy@lewisu.edu">carolinesiedlarczy@lewisu.edu<h1 style="text-align:center;"</a></p>
 
-<h2>Display Name: C@rol, Username: crol205</h2>
+<h2>Display Name: C@rol, Username: crol205<h1 style="text-align:center;"</h2>
 
 <h3>Introduction</h3>
     <p>Hi, my name is Caroline Siedlarczyk. 
