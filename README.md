@@ -33,8 +33,9 @@ function func()
             <li>Data Networking & Security</li>
           </ul>
 
-   <i class="fas fa-heart"></i><h3>My Favorite Hobby</h3><i class="fas fa-heart"></i>
-
+   <i class="fas fa-heart"></i>
+   <h3>My Favorite Hobby</h3>
+   
         <p>Reading is my favorite hobby. I just enjoy being able to settle down after a long day 
             and take out a good book to read. I like to read any kind of book, no matter the genre
             though I do have a preference for fiction.
