@@ -16,6 +16,8 @@ function func()
 
 <h2>Display Name: C@rol, Username: crol205</h2>
 
+<img src="\Users\carol\OneDrive\Pictures\img_PicofMe.jpg"/>
+
 <h3>Introduction</h3>
     <p>Hi, my name is Caroline Siedlarczyk. 
         I am eighteen years old and a freshman at Lewis University. I enjoy playing videogames, reading,
@@ -32,8 +34,7 @@ function func()
             <li>History of Computer Science</li>
             <li>Data Networking & Security</li>
           </ul>
-
-   <i class="fas fa-heart"></i>
+          
    <h3>My Favorite Hobby</h3>
    
         <p>Reading is my favorite hobby. I just enjoy being able to settle down after a long day 
