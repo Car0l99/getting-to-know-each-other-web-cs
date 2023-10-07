@@ -14,9 +14,9 @@ function func()
 
 <p><a href="carolinesiedlarczy@lewisu.edu">carolinesiedlarczy@lewisu.edu</a></p>
 
-<h2>Display Name: C@rol, Username: crol205</h2>
-
 <img src="\Users\carol\OneDrive\Pictures\img_PicofMe.jpg"/>
+
+<h2>Display Name: C@rol, Username: crol205</h2>
 
 <h3>Introduction</h3>
     <p>Hi, my name is Caroline Siedlarczyk. 
