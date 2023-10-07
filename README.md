@@ -24,7 +24,8 @@ function func()
         year old dog named Rosie. I'm majoring in Computer Science and plan to minor in Data Science.
     </p>
     <h3>What I hope to Learn in this Course</h3>
-            <ul style="list-style-type:revolving_hearts"> 
+<ul style="list-style-type:square;">
+
             <li>How to code, along with knowing languages are the best to use in different scenarios.</li>
             <li>Basics of Software Development</li>
             <li>Binary</li>
@@ -41,11 +42,10 @@ function func()
     <h3>Fun Fact about Me</h3>
     I share a birthday with my cousin Jacob, we were both born on August 10. Though he is a couple years older than me.
     <h3>Greatest Innovations of all time</h3>
-   <ul style="list-style-type:revolving_hearts"> 
+<ul style="list-style-type:square;">
         <li>#1 The Gameboy, which paved the way for videogames.
             <p><a href="https://www.smithsonianmag.com/innovation/thirty-years-ago-game-boy-changed-way-america-played-video-games-180972743/">Game Boy</a></p>
         <li>#2 The Computer
             <p><a href="https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm">The Computer</a></p>
         <li>#3 Siri
             <p><a href="https://www.macrumors.com/guide/siri/">Siri</a></p>
-             </ul>
