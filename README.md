@@ -16,7 +16,7 @@ function func()
 
 <img src="file:///C:/Users/carol/OneDrive/Pictures/img_PicofMe.jpg" alt="me"/>
 
-<h2>Display Name: C@rol, Username: crol205</h2>
+<p style="border: 1px solid black">Display Name: C@rol, Username: crol205</p>
 
 <h3>&#128123;Introduction&#128123;</h3>
     <p>Hi, my name is Caroline Siedlarczyk. 
