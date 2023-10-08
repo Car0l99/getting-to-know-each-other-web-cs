@@ -18,7 +18,7 @@ function func()
 
 <h2>Display Name: C@rol, Username: crol205</h2>
 
-<h3>&#128123;Introduction&#128123;</h3>
+<h3>&#128507;Introduction&#128507;</h3>
     <p>Hi, my name is Caroline Siedlarczyk. 
         I am eighteen years old and a freshman at Lewis University. I enjoy playing videogames, reading,
         writing & listening to music. My favorite game of all time would have to be minecraft. I have
