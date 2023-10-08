@@ -35,7 +35,7 @@ function func()
             <li>Data Networking & Security</li>
           </ul>
           
-   <h3>My Favorite Hobby</h3>
+   <h3>&#128512;My Favorite Hobby&#128512;</h3>
    
         <p>Reading is my favorite hobby. I just enjoy being able to settle down after a long day 
             and take out a good book to read. I like to read any kind of book, no matter the genre
