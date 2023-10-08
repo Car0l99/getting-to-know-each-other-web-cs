@@ -1,9 +1,6 @@
 <html>
 <body style="background-color:powderblue;">
 
-<title>Getting to Know Each Other</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-
    <h1 style="font-size:300%;"><h1 style="font-family:verdana;"><h1 style="text-align:center;"><p id="text" onclick="func()">
     <b>Caroline Siedlarczyk</b>
 </p>
