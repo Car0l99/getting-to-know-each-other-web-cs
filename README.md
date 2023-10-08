@@ -41,7 +41,7 @@ function func()
             and take out a good book to read. I like to read any kind of book, no matter the genre
             though I do have a preference for fiction.
     
-    <h3>Fun Fact about Me</h3>
+    <h3>&#128151;Fun Fact about Me&#128151;</h3>
     I share a birthday with my cousin Jacob, we were both born on August 10. Though he is a couple years older than me.
     <h3>Greatest Innovations of all time</h3>
 <ul style="list-style-type:square;">
