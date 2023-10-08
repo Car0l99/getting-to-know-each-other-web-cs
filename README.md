@@ -14,7 +14,7 @@ function func()
 
 <p><a href="carolinesiedlarczy@lewisu.edu">carolinesiedlarczy@lewisu.edu</a></p>
 
-<img src="\Users\carol\OneDrive\Pictures\img_PicofMe.jpg"/>
+<img src="file:///C:/Users/carol/OneDrive/Pictures/img_PicofMe.jpg" alt=""/>
 
 <h2>Display Name: C@rol, Username: crol205</h2>
 
