@@ -25,7 +25,7 @@ function func()
         two younger sisters, one's middle school while the other is in highschool. I also have a three
         year old dog named Rosie. I'm majoring in Computer Science and plan to minor in Data Science.
     </p>
-    <h3>#&128743What I hope to Learn in this Course#&128743</h3>
+    <h3>#&128743;What I hope to Learn in this Course#&128743;</h3>
 <ul style="list-style-type:square;">
 
             <li>How to code, along with knowing languages are the best to use in different scenarios.</li>
