@@ -18,14 +18,14 @@ function func()
 
 <h2>Display Name: C@rol, Username: crol205</h2>
 
-<h3>&#128507;Introduction&#128507;</h3>
+<h3>&#128123;Introduction&#128123;</h3>
     <p>Hi, my name is Caroline Siedlarczyk. 
         I am eighteen years old and a freshman at Lewis University. I enjoy playing videogames, reading,
         writing & listening to music. My favorite game of all time would have to be minecraft. I have
         two younger sisters, one's middle school while the other is in highschool. I also have a three
         year old dog named Rosie. I'm majoring in Computer Science and plan to minor in Data Science.
     </p>
-    <h3>#&128743;What I hope to Learn in this Course#&128743;</h3>
+    <h3>&#128507;What I hope to Learn in this Course&#128507;</h3>
 <ul style="list-style-type:square;">
 
             <li>How to code, along with knowing languages are the best to use in different scenarios.</li>
